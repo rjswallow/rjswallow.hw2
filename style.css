@@ -1,0 +1,25 @@
+h1 {
+    color: #4aaaa5;
+  }
+body {
+    background-image:url(Assets/wavyguy.png);
+    background-color: #cccccc;
+}
+.btn {
+    background-color: #4aaaa5 ;
+    color: white;
+}
+.imgSize {
+    margin: 50px;
+}
+.navbar-brand {
+    color: white;
+    background-color: #4aaaa5 ;
+}
+.portfolio {
+    margin-top: 10px;
+    margin-left: 14px;
+}
+.aboutImage {
+    margin-right: 5px;
+}
