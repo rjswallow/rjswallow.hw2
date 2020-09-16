@@ -7,9 +7,11 @@ This project was an exersize in the correct use of bootstrap in creating the lay
 [My Github Profile Page] (https://github.com/rjswallow)
 [Deployed Page - Responsive Profile] (https://rjswallow.github.io/rjswallow.hw2/)
 
+# Contributions
+
+Pull requests are welcomed. In order to work on the project you'll want to be familier with HTML, CSS, and Bootstrap
 
 
-
-
+# Liscencing
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
